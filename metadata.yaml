@@ -1,5 +1,5 @@
 _repo: A-Select-Collection-of-Old-English-Plays-Volume-9_10550
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Dodsley, Robert
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '26524'
     url: http://www.gutenberg.org/2009/agents/26524
     wikipedia: http://en.wikipedia.org/wiki/Robert_Dodsley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Hazlitt, William Carew
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4300
     wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10550#A-Select-Collection-of-Old-English-Plays-Volume-9
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
